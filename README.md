@@ -1,6 +1,8 @@
 # projet
 projet système d'exploitation
+
 **reponse des questions :**
+
 --> Q1 : Structures de données
   + Matrices B et C :Peuvent être représentées comme des tableaux bidimensionnels en mémoire, où chaque thread producteur peut accéder à des lignes spécifiques.
   + Matrice résultante A :Comme les matrices B et C, elle peut être représentée comme un tableau bidimensionnel en mémoire.
